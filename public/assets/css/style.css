@@ -1,0 +1,57 @@
+*{
+  margin: auto;
+  width: 700px;
+  font-family: 'Charm', cursive;
+}
+
+img{
+  width: 500px;
+  margin-left: 100px;
+}
+
+h1 {
+  text-align: center;
+ font-size: 50px;
+ font-family: 'Charm', cursive;
+ color:  rgb(41, 41, 172);
+}
+button {
+  background-color: rgb(44, 44, 105);
+  color: rgb(219, 110, 20);
+}
+.left{
+  color:  rgb(41, 41, 172);
+}
+.submit{
+  margin-left:15%;
+  width: 30%;
+  font-size: 25px;
+  margin-bottom: 50px;
+}
+p{
+  float: left;
+  font-size: 25px;
+  font-weight: 600;
+
+}
+.devourIt{
+  float: right;
+  margin-right: 40%;
+   width: 20%;
+  
+ }
+.right {
+  position: absolute;
+  right: 0px;
+  width: 33%;
+  color: rgb(219, 110, 20);
+}
+#burgerInput{
+  text-align: center;
+  width: 60%;
+  line-height: 50px;
+  font-weight: 600;
+  font-size: 20px;
+  border: 2px solid rgb(41, 41, 172)
+}
+
